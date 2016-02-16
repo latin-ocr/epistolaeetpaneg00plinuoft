@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaeetpaneg00plinuoft_0119.png"; bbox 0 0 1110 1916; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 192 455 847 608">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 192 455 847 608">
+     <span class='ocr_line' id='line_1_1' title="bbox 192 455 847 511; baseline -0.009 -1"><span class='ocrx_word' id='word_1_1' title='bbox 192 458 254 511; x_wconf 83' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 292 457 517 509; x_wconf 88' lang='lat' dir='ltr'>PLINII</span> <span class='ocrx_word' id='word_1_3' title='bbox 552 455 847 508; x_wconf 87' lang='lat' dir='ltr'>CAECILII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 399 566 646 608; baseline -0.012 0"><span class='ocrx_word' id='word_1_4' title='bbox 399 566 646 608; x_wconf 84' lang='lat' dir='ltr'>SECUNDI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 286 674 748 721">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 286 674 748 721">
+     <span class='ocr_line' id='line_1_3' title="bbox 286 674 748 721; baseline -0.006 0"><span class='ocrx_word' id='word_1_5' title='bbox 286 674 748 721; x_wconf 85' lang='lat' dir='ltr'><strong>EPISTOLARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 430 800 620 834">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 430 800 620 834">
+     <span class='ocr_line' id='line_1_4' title="bbox 430 800 620 834; baseline -0.011 0"><span class='ocrx_word' id='word_1_6' title='bbox 430 801 556 834; x_wconf 67' lang='grc' dir='ltr'><strong>Ιιιιῑι</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 577 800 620 833; x_wconf 86' lang='lat' dir='ltr'><strong>V.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 262 914 794 1043">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 262 914 794 1043">
+     <span class='ocr_line' id='line_1_5' title="bbox 455 914 600 944; baseline -0.007 -6"><span class='ocrx_word' id='word_1_8' title='bbox 455 914 600 944; x_wconf 54' lang='lat'><strong>-4-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 262 998 794 1043; baseline -0.008 -10"><span class='ocrx_word' id='word_1_9' title='bbox 262 998 335 1043; x_wconf 88' lang='grc' dir='ltr'><strong>(ι.)</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 359 1000 398 1033; x_wconf 85' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 415 998 794 1033; x_wconf 60' lang='lat' dir='ltr'><strong>Paos-ammos.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
